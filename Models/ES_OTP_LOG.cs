@@ -1,4 +1,4 @@
-namespace OnlineExam.Models
+namespace Online_Exam.Models
 {
     public class Otp_Log
     {
